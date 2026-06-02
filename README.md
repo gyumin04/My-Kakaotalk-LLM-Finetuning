@@ -2,7 +2,7 @@
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Hub-orange)](https://huggingface.co/gyumin040911/llama-3-my-kakaotalk-lora)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-> **시계열 기반 멀티턴 데이터 전처리 파이프라인과 하이퍼파라미터 정밀 조율을 통해, 친한 친구의 카카오톡 대화 텐션을 완벽히 재현한 LLM 파인튜닝 프로젝트입니다.**
+> **시계열 기반 멀티턴 데이터 전처리 파이프라인과 하이퍼파라미터 정밀 조율을 통해, 친한 친구의 카카오톡 대화 텐션을 효과적으로 재현한 LLM 파인튜닝 프로젝트입니다.**
 
 <br>
 

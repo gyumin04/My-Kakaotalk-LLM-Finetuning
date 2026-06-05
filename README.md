@@ -96,7 +96,7 @@ My-Kakaotalk-LLM-Finetuning/
 ## 6. 실행 및 환경 구축 (Installation & Usage)
 ### 1) 의존성 라이브러리 설치
 ```Bash
-git clone [https://github.com/](https://github.com/)[본인의 GitHub ID]/My-Kakaotalk-LLM-Finetuning.git
+git clone [https://github.com/](https://github.com/)[gyumin04]/My-Kakaotalk-LLM-Finetuning.git
 cd My-Kakaotalk-LLM-Finetuning
 
 # 핵심 딥러닝 및 Hugging Face 생태계 패키지 설치
